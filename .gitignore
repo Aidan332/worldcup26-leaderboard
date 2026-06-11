@@ -1,0 +1,4 @@
+# Publish ONLY the leaderboard page - everything else stays private
+*
+!.gitignore
+!index.html
